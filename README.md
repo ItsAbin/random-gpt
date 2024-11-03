@@ -49,7 +49,7 @@ For Software:
 
 ### Project Demo
 # Video
-<video width="720" src="https://github.com/ItsAbin/random-gpt/blob/main/public/Screen%20Recording%202024-11-03%20071243.mp4">
+[Video link](https://github.com/ItsAbin/random-gpt/blob/main/public/Screen%20Recording%202024-11-03%20071243.mp4)
 
 
 ## Team Contributions

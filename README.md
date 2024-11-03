@@ -29,19 +29,19 @@ For Software:
 - ChatGPT
 
 ### Implementation
-For Software:
+You can view demo implementation at [GitHub Page](https://itsabin.github.io/random-gpt-demo/)
+
 # Installation
 npm install
 
 # Run
-npm run start
+npm run dev
 
-### Project Documentation"
-For Software:
+### Project Documentation
+Type in your questions and read sometimes correct or funny (aka useless) responses
 
 # Screenshots (Add at least 3)
 <img width="720" alt="Homepage with text field" src="https://github.com/ItsAbin/random-gpt/blob/main/public/Screenshot%202024-11-03%20070809.png">
-
 
 <img width="720" alt="Homepage with text field" src="https://github.com/ItsAbin/random-gpt/blob/main/public/Screenshot%202024-11-03%20070911.png">
 
